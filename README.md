@@ -1,9 +1,10 @@
 # AXIPs
 
-AthleteX Improvement Proposals (AXIPs) describe standards of improvement for the AthleteX Decentralized Exchange and Protocol.  It's important to specify that the AthleteX exchange, and contracts share the same name, but fulfill two separate purposes.
-
-
 The AthleteX Improvement Proposal Repository
+
+AthleteX Improvement Proposals (AXIPs) describe standards of improvement for the AthleteX Decentralized Exchange and Protocol.  
+
+It's important to specify that the AthleteX exchange and contracts can have AXIPs but note they fulfill two separate purposes.
 
 # Contributing
 
