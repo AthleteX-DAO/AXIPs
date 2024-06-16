@@ -14,7 +14,7 @@ It's important to specify that the AthleteX exchange and contracts can have AXIP
 
 From there you must submit a Pull Request (PR) to this Repository.
 
-The basic implementation process is Draft -> Review -> Approved / Rejected -> Implemented ( done ).
+The basic implementation process is Draft -> Review -> Approved / Rejected ( done ) -> Implemented ( done ).
 
 As this protocol matures, the process may be revised accordingly.
 
